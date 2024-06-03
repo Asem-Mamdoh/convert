@@ -1,0 +1,79 @@
+
+
+body{
+    background-color: #e26e2b;
+    text-align: center;
+}
+
+.contener {
+    width: 80%;
+    margin-top: 110px;
+    margin-left: 100px;
+    padding: 15px;
+    border: 4px solid #aaff2157 ;
+    border-radius: 20px;
+    
+}
+
+.h3{
+    background-color: #8ba52d;
+    display: inline-block;
+    padding: 10px 20px 10px 20px;
+    border-radius: 8px;
+}
+
+
+.dollar {
+    background-color: #eddbff57;
+    color: rgb(0, 167, 0);
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    margin-bottom: 20px;
+    
+}
+
+.pound {
+    background-color: #eddbff57;
+    color: #00f7ff;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+
+}
+
+/* .mov{
+    width: 80px;
+    height: 80px;
+    background-color: #8ba52d;
+    border-radius: 5px;
+    animation-name: move;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+} */
+
+/* @keyframes move{
+    0%{
+        transform: translate(0);
+    }
+
+    25%{
+        transform: translateX(100);
+
+    }
+
+    50%{
+        transform: translateY(0);
+
+    }
+
+    75%{
+        transform: translateX(0);
+
+    }
+
+    100%{
+        transform: translateY(0);
+
+    }
+} */
